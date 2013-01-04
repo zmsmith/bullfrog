@@ -2,6 +2,11 @@
 
 [Video](http://video.nationalgeographic.com/video/animals/amphibians-animals/frogs-and-toads/frog_bull/)
 
+## Installation
+```bash
+$ pip install bullfrog 
+```
+
 ## Usage
 
 ```bash
